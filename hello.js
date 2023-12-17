@@ -4,8 +4,13 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log("Hello, World");
+console.log(10 + 7)
+console.log("I'm learning!")
+console.log("Despite everything, it's still you")
+console.log('I really like avocado','I do not like tomatoes')
+console.log("it's never really \"goodbye\" it's just until next time")
+console.log(1 + 1 , 2 + 2 )
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
